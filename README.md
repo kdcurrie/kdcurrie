@@ -1,7 +1,7 @@
 ### Hi friends! 👋
 
 - 🔭 I’m currently working on VolaTrade
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Go
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I love tabletop board games!
 
