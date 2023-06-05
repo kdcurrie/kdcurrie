@@ -1,7 +1,7 @@
 ### Hi friends! 👋
 
-- 🔭 I’m currently working on VolaTrade
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working at Annalect as a Data Engineer
+- 🌱 I’m learning AWS Query UI
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I love tabletop board games!
 
